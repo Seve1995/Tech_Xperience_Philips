@@ -13,3 +13,8 @@ Implementation of an object-recognition AI algorithm from a small dataset for th
 `docker run -it -v <absolute path to test images>:/philips/Images giuseppeseverino/tech_xperience:v1 python predict.py`
 
 The output will appear in the console, as shown in the screenshots below:
+(Linux)
+![Linux screenshot](https://github.com/Seve1995/Tech_Xperience_Philips/blob/master/Ubuntu_Tutorial.png "Ubuntu execution")
+
+(Windows)
+
